@@ -1,0 +1,14 @@
+
+.Navbar
+{
+  background: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
+}
+.Navbart{
+  color: white !important;
+  text-decoration: none;
+position: absolute;
+top:2%;
+left:2%;
+font-weight: 600;
+
+}

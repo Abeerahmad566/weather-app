@@ -1,0 +1,61 @@
+.inputfield{
+    margin-left: 30%;
+    margin-top: 5%;
+    width: 30%;
+}
+
+.name{
+    border: 1px solid grey;
+    width: 30%;
+    margin-left: 32%;
+    margin-top: 3%;
+}
+.cwwrap{
+   
+  
+    margin-left: 32%;
+    margin-top: 5%;   
+}
+.maintemp{
+    position: relative;
+    bottom: 18px;
+    left:70px;
+}
+.feelslike{
+    position: relative;
+    bottom: 18px;
+    left:70px;
+}
+.humidity{
+    position: relative;
+    bottom: 18px;
+    left:70px;  
+}
+.wind{
+    position: relative;
+    bottom: 18px;
+    left:85px;   
+}
+.Windall{
+    position: relative;
+  bottom: 60px;
+    left:185px;  
+}
+.feelslikeall{
+    position: relative;
+    bottom: 25px;
+}
+/* .hrtag{
+    width: 500px;
+    margin-left: 28%;
+    position: relative;
+    top:60px;
+} */
+.currentweather{
+    font-size: 50px;
+    margin-left: 30%;
+    margin-top: 4%;
+}
+.bold{
+    font-weight: 600;
+}
